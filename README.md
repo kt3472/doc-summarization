@@ -1,10 +1,25 @@
-# The Review of "Text Summarization with Pretrained Encoders"
+# Paper Summarization"
 
-**1. Paper Title**
+**1. Summary**
+ - w
+ - 
+ - 
+
+**2. Extractive Approach**
+ - w
+ - 
+ - 
+ 
+ **3. Abstractive Approach**
+ - w
+ - 
+ - 
+
+**4. Reference**
  - [Yang Liu & Mirella Lapata(2019), Text Summarization with Pretrained Encoders](https://https://arxiv.org/abs/1908.08345)
  - [(PDF file Link)](http://https://arxiv.org/pdf/1908.08345.pdf)
 
-**2. Summary**
+**5. Summary**
  - w
  - 
  - 
