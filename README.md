@@ -17,6 +17,7 @@
 
 **4. Reference**
  - [Yang Liu & Mirella Lapata(2019), Text Summarization with Pretrained Encoders](https://https://arxiv.org/abs/1908.08345)
- - [(PDF file Link)](http://https://arxiv.org/pdf/1908.08345.pdf)
+ - Attention Layer Code - https://github.com/thushv89/attention_keras/blob/master/layers/attention.py
+ 
 
  
